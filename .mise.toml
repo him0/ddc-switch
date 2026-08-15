@@ -1,0 +1,7 @@
+# ddc-switch development tools
+# macOS requires m1ddc (brew install m1ddc)
+# Windows requires dxva2.dll (built into Windows)
+
+[tools]
+bun = "1.3"
+just = "1.50"

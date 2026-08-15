@@ -1,0 +1,17 @@
+{
+  "name": "ddc-switch",
+  "version": "0.1.0",
+  "description": "DDC/CI CLI to switch external display input between multiple machines (macOS / Windows)",
+  "type": "module",
+  "private": false,
+  "license": "MIT",
+  "scripts": {
+    "cli": "bun run src/main.ts",
+    "build": "bun run scripts/build.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.3.0",
+    "typescript": "^5.9.0"
+  }
+}

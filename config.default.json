@@ -1,0 +1,13 @@
+{
+  "display": "YOUR_DISPLAY_NAME",
+  "inputs": {
+    "type-c": 27,
+    "hdmi": 17,
+    "dp": 15
+  },
+  "toggle": [
+    "type-c",
+    "hdmi"
+  ],
+  "m1ddcPath": null
+}
